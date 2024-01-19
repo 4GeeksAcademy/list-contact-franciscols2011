@@ -1,0 +1,14 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 60%;
+  margin: 0 auto;
+  background-color: darkgray;
+}
+.list-group-item {
+  background-color: rgb(202, 171, 171);
+}
+.h-100 {
+  background-color: darkgray;
+}
